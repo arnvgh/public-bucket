@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2023.md",
+                "file": "Logs/2023.mdx.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3e8e19adeaa6336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Logs/2023.mdx.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Logs/2023.mdx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Logs/2023.mdx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Logs/2023.mdx.md"
               }
             }
           }
@@ -183,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3e8e19adeaa6336",
+  "active": "6fda08cfa51dcdbb",
   "lastOpenFiles": [
-    "Readme.md",
     "Untitled.md",
-    "Logs/2023.md",
+    "Readme.md",
+    "Logs/2023.mdx.md",
     "Logs/2022.md",
     "attachments/Pasted image 20230720010940.png",
     "ClassNotes",
