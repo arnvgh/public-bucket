@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Logs/2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Logs/2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Logs/2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Logs/2022.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "6c9600e7017348ff",
   "lastOpenFiles": [
+    "Readme.md",
     "Logs/2023.md",
     "Logs/2022.md",
     "Logs/2023.mdx",
     "Logs/2022.mdx",
-    "Readme.md",
     "Logs/2023.mdx.md",
     "Untitled.md",
     "attachments/Pasted image 20230720010940.png",
