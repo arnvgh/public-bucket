@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d3e8e19adeaa6336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "55459fe982ae205e",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c9600e7017348ff",
+  "active": "d3e8e19adeaa6336",
   "lastOpenFiles": [
-    "Logs/2023.md",
     "Readme.md",
+    "Untitled.md",
+    "Logs/2023.md",
     "Logs/2022.md",
     "attachments/Pasted image 20230720010940.png",
     "ClassNotes",
