@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Guide to Getting Started with Competitive Programming.md",
+                "file": "Wasting time, Get a skill. Love the art of writing code.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Wasting time, Get a skill. Love the art of writing code.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Wasting time, Get a skill. Love the art of writing code.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Wasting time, Get a skill. Love the art of writing code.mdx"
               }
             }
           }
@@ -171,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f562c6532f8f596a",
+  "active": "edcae4cf52524837",
   "lastOpenFiles": [
-    "A Guide to Getting Started with Competitive Programming.md",
+    "A Guide to Getting Started with Competitive Programming.mdx",
     "Readme.md",
+    "A Guide to Getting Started with Competitive Programming.md",
+    "Wasting time, Get a skill. Love the art of writing code.mdx",
     "Wasting time, Get a skill. Love the art of writing code.md",
     "2023.mdx",
     "2022.mdx",
